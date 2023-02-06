@@ -1,4 +1,4 @@
-# E3Build
+# Ender 3/Pro/V2 Build
 <pre>
 This is a documentation of my Ender 3/Pro Documentary of my printer build. Currently at 2.5 with RPI and MicroSwiss.
 
@@ -107,5 +107,5 @@ Version 3.0: More parts more money
 -Air filter Mod (HEPA+Carbon Filter) https://www.thingiverse.com/thing:3374299
 
 Version 4.0:
--SwitchWire Conversion
+-SwitchWire Conversion https://github.com/boubounokefalos/Ender_SW
 </pre>
