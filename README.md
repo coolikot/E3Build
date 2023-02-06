@@ -43,7 +43,7 @@ V2.0: Performance Upgrades with printed Parts
 
 ========================================================================================
 FREE/Minimal UPGRADES End
-
+========================================================================================
 Final v2.0 BOM: 
 -Capricorn PTFE Tube
 -X axis Tensioner
@@ -73,9 +73,9 @@ Good place to STOP, this is where the cost efficiency drops. no bigpurchases so 
 - M3 X Plain Nuts 3x
 
 *V6 Hydra Additional Parts:
-M3 x 20mm Hex Bolts and M3 Nylocs 2x : for Heat Sink 
-M3 x 12mm Hex bolts and Nylocs 2x : for V6 Clamp to the Duct Base.
-M3 x 10 mm long Nylocs 2x : for BL Touch
+- M3 x 20mm Hex Bolts and M3 Nylocs 2x : for Heat Sink 
+- M3 x 12mm Hex bolts and Nylocs 2x : for V6 Clamp to the Duct Base.
+- M3 x 10 mm long Nylocs 2x : for BL Touch
 
 
 Version 2.5: Performance Parts, Better cooling
@@ -91,6 +91,7 @@ Good place to STOP again. At this stage you can print PETG on open air with no p
 ========================================================================================
 
 Version 3.0: More parts more money
+-HotBed: PEI Spring sheet from Whambam or BuildTak is good
 -Dual Z mod: https://www.amazon.com/BIGTREETECH-Upgrade-Stepper-Upgrades-Printer/dp/B09DS6TQJY
 -BMG Extruder:  check https://www.bondtech.se/product/bmg-extruder/ or authorized resellers
 -Hotend: Micro Swiss All Metal MK8 hotend https://store.micro-swiss.com/collections/all-metal-hotend-kits
