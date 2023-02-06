@@ -45,7 +45,6 @@ V2.0: Performance Upgrades with printed Parts
 FREE/Minimal UPGRADES End
 
 Final v2.0 BOM: 
-BOM:
 -Capricorn PTFE Tube
 -X axis Tensioner
 -Y Axis Tensioner
@@ -57,6 +56,9 @@ BOM:
 -SD Card Extender
 -2pcs M3 screw and T-nut
 -24v LED
+-8 x 2mm neodymium 
+-30mm Socket adapter
+-6/7 socket wrench
 *Add v5 hydra if you went that route
 
 ========================================================================================
