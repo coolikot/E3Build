@@ -1,4 +1,5 @@
 # E3Build
+<pre>
 This is a documentation of my Ender 3/Pro Documentary of my printer build. Currently at 2.5 with RPI and MicroSwiss.
 
 Tools To be used:
@@ -101,4 +102,4 @@ Version 3.0: More parts more money
 
 Version 4.0:
 -SwitchWire Conversion
-
+</pre>
