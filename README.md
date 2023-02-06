@@ -36,6 +36,7 @@ V1.5: Aesthethics and Organiztion
 -Handle Bar https://www.thingiverse.com/thing:1290106
 -Cable Chains (Unnecesary but makes your printer looks clean) : https://www.thingiverse.com/thing:4316238
 -LED Bar(soldering/wiring required) https://www.thingiverse.com/thing:3292889
+-Nozzle Wiper : https://www.thingiverse.com/thing:4747447
 
 V2.0: Performance Upgrades with printed Parts
 -Printed Direct Drive with stock parts: https://www.thingiverse.com/thing:3443609 or straight to Hydra V5 for Bowden and 1x 4010 24V Part cooling fan set up : https://www.thingiverse.com/thing:4062242
@@ -59,6 +60,7 @@ Final v2.0 BOM:
 -8 x 2mm neodymium 
 -30mm Socket adapter
 -6/7 socket wrench
+-Brass Brush
 *Add v5 hydra if you went that route
 
 ========================================================================================
@@ -85,6 +87,7 @@ Version 2.5: Performance Parts, Better cooling
 -5015 24v Sunon Fan Upgrade 2x: Part Cooling
 -4010 24v Sunon Fan Upgrade 1x: Hot End
 -Hydra Hotend V6 Setup : https://www.thingiverse.com/thing:4253359/files
+
 
 ========================================================================================
 Good place to STOP again. At this stage you can print PETG on open air with no problem
