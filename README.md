@@ -1,6 +1,7 @@
 # Ender 3/Pro/V2 Build
 <pre>
-This is a documentation of my Ender 3/Pro Documentary of my printer build. Currently at 2.5 with RPI and MicroSwiss.
+This is a documentation of my Ender 3/Pro Documentary of my printer build. 
+Currently at 2.5 with RPI and MicroSwiss.
 
 Tools To be used:
 -Tire Gauge for Alignment
@@ -39,7 +40,8 @@ V1.5: Aesthethics and Organiztion
 -Nozzle Wiper : https://www.thingiverse.com/thing:4747447
 
 V2.0: Performance Upgrades with printed Parts
--Printed Direct Drive with stock parts: https://www.thingiverse.com/thing:3443609 or straight to Hydra V5 for Bowden and 1x 4010 24V Part cooling fan set up : https://www.thingiverse.com/thing:4062242
+-Printed Direct Drive with stock parts: https://www.thingiverse.com/thing:3443609 or straight to 
+Hydra V5 for Bowden and 1x 4010 24V Part cooling fan set up : https://www.thingiverse.com/thing:4062242
 -Stepper Cable Support : https://www.thingiverse.com/thing:4279827
 
 ========================================================================================
@@ -64,7 +66,7 @@ Final v2.0 BOM:
 *Add v5 hydra if you went that route
 
 ========================================================================================
-Good place to STOP, this is where the cost efficiency drops. no bigpurchases so far before this point. Afterwards will be crazy.
+Good place to STOP, this is where the additional expense comes in.
 ========================================================================================
 *V5 Hydra Parts:
 - M3 x 12 mm Pan Head hex bolts 4x
@@ -90,7 +92,8 @@ Version 2.5: Performance Parts, Better cooling
 
 
 ========================================================================================
-Good place to STOP again. At this stage you can print PETG on open air with no problem
+Good place to STOP again. Currently a best bang for your buck set up!
+At this stage you can print PETG on open air with no problem
 ========================================================================================
 
 Version 3.0: More parts more money
