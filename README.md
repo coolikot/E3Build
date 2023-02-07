@@ -1,7 +1,13 @@
-# Ender 3/Pro/V2 Build
+# Ender 3/Pro/V2
+
+============================================
+BUILD STATUS: Stopped at 2.5 with RPI, PEI Spring Steel Sheet Textured+Smooth, and MicroSwiss.
+============================================
+
+
 <pre>
 This is a documentation of my Ender 3/Pro Documentary of my printer build. 
-Currently at 2.5 with RPI and MicroSwiss.
+This setup is repeatable. Good for print farms. I have this on 3 of my E3 (2xE3Pros, 1xRegularE3)
 
 Tools To be used:
 -Tire Gauge for Alignment
