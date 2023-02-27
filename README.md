@@ -91,10 +91,11 @@ Good place to STOP, this is where the additional expense comes in.
 Version 2.5: Performance Parts, Better cooling
 -E3 Pro rear PSU Mod (only print left part): https://www.thingiverse.com/thing:4101358
 -E3 Pro rear PSU Mod (Better right part): https://www.thingiverse.com/thing:4461049
+-E3 (Non Pro) rear PSU Mod: https://www.thingiverse.com/thing:5303395
 -PSU Fan Cover: https://www.thingiverse.com/thing:4460994
--5015 24v Sunon Fan Upgrade 2x: Part Cooling
--4010 24v Sunon Fan Upgrade 1x: Hot End
--Hydra Hotend V6 Setup : https://www.thingiverse.com/thing:4253359/files
+-5015 24v Sunon/GDSTime Fan Upgrade 2x: Part Cooling
+-4010 24v Sunon/GDSTime Fan Upgrade 1x: Hot End
+-Hydra Hotend Version6 Setup : https://www.thingiverse.com/thing:4253359/
 
 
 ========================================================================================
@@ -103,11 +104,11 @@ At this stage you can print PETG on open air with no problem
 ========================================================================================
 
 Version 3.0: More parts more money
--HotBed: PEI Spring sheet from Whambam or BuildTak is good
+-HotBed: PEI Spring sheet from Whambam or BuildTak is good or any that has textured and smooth
 -Dual Z mod: https://www.amazon.com/BIGTREETECH-Upgrade-Stepper-Upgrades-Printer/dp/B09DS6TQJY
 -BMG Extruder:  check https://www.bondtech.se/product/bmg-extruder/ or authorized resellers
 -Hotend: Micro Swiss All Metal MK8 hotend https://store.micro-swiss.com/collections/all-metal-hotend-kits
--Nozzle: Ruby Nozzle to print anything https://www.amazon.com/Temperature-Markerbot-Creality-Printer-Carbide/dp/B07Q23K51X
+-Nozzle: Ruby/Tungsten Carbide/Diamond Tip Nozzle to print anything https://www.amazon.com/Temperature-Markerbot-Creality-Printer-Carbide/dp/B07Q23K51X
 -Z Probe: BL Touch by ANTCLABS https://www.antclabs.com/
 -HiWin linear rails: Upgrade Guide https://www.youtube.com/watch?v=I3xMHjiYENk&
 -Mother Board: BigTreeTech SKR mini E3 v3 (if in a budget SKR mini E3 v1.2 is enough)
