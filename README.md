@@ -110,11 +110,17 @@ Version 3.0: More parts more money
 -Hotend: Micro Swiss All Metal MK8 hotend https://store.micro-swiss.com/collections/all-metal-hotend-kits
 -Nozzle: Ruby/Tungsten Carbide/Diamond Tip Nozzle to print anything https://www.amazon.com/Temperature-Markerbot-Creality-Printer-Carbide/dp/B07Q23K51X
 -Z Probe: BL Touch by ANTCLABS https://www.antclabs.com/
--HiWin linear rails: Upgrade Guide https://www.youtube.com/watch?v=I3xMHjiYENk&
+-Linear rails: Upgrade Guide https://www.youtube.com/watch?v=I3xMHjiYENk&
 -Mother Board: BigTreeTech SKR mini E3 v3 (if in a budget SKR mini E3 v1.2 is enough)
 -Raspberry Pi: RPi3b+ or later versions for Klipper or Octoprint for remote access printing
 -Ikea Lack Enclosure Mod: https://www.thingiverse.com/thing:3534066
 -Air filter Mod (HEPA+Carbon Filter) https://www.thingiverse.com/thing:3374299
+
+02/27/2023 - After 2 years my first E3 Pro Board gave out. It seems that the Extruder motor is skipping even without load and higher Vref. Extruder driver may be failing. Time to upgrade the mother board. 
+While Waiting for an SKR mini E3 v3 i have used my SKR mini E3 v1.2.
+Will upgrade extruder Motors to BMG
+Will add BLTouch
+Will Upgrade to Hydra v6
 
 Version 4.0:
 -SwitchWire Conversion https://github.com/boubounokefalos/Ender_SW
