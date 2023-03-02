@@ -104,23 +104,23 @@ At this stage you can print PETG on open air with no problem
 ========================================================================================
 
 Version 3.0: More parts more money
--HotBed: PEI Spring sheet from Whambam or BuildTak is good or any that has textured and smooth
--Dual Z mod: https://www.amazon.com/BIGTREETECH-Upgrade-Stepper-Upgrades-Printer/dp/B09DS6TQJY
--BMG Extruder:  check https://www.bondtech.se/product/bmg-extruder/ or authorized resellers
--Hotend: Micro Swiss All Metal MK8 hotend https://store.micro-swiss.com/collections/all-metal-hotend-kits
--Nozzle: Ruby/Tungsten Carbide/Diamond Tip Nozzle to print anything https://www.amazon.com/Temperature-Markerbot-Creality-Printer-Carbide/dp/B07Q23K51X
--Z Probe: BL Touch by ANTCLABS https://www.antclabs.com/
--Linear rails: Upgrade Guide https://www.youtube.com/watch?v=I3xMHjiYENk&
 -Mother Board: BigTreeTech SKR mini E3 v3 (if in a budget SKR mini E3 v1.2 is enough)
 -Raspberry Pi: RPi3b+ or later versions for Klipper or Octoprint for remote access printing
+-HotBed: PEI Spring sheet from Whambam or BuildTak is good or any that has textured and smooth
+-Z Probe: BL Touch by ANTCLABS https://www.antclabs.com/
+-BMG Extruder:  check https://www.bondtech.se/product/bmg-extruder/ or authorized resellers
+-Hotend: Micro Swiss All Metal MK8 hotend https://store.micro-swiss.com/collections/all-metal-hotend-kits
+-Dual Z mod: https://www.amazon.com/BIGTREETECH-Upgrade-Stepper-Upgrades-Printer/dp/B09DS6TQJY
+-Nozzle: Ruby/Tungsten Carbide/Diamond Tip Nozzle to print anything https://www.amazon.com/Temperature-Markerbot-Creality-Printer-Carbide/dp/B07Q23K51X
+-Linear rails: Upgrade Guide https://www.youtube.com/watch?v=I3xMHjiYENk&
 -Ikea Lack Enclosure Mod: https://www.thingiverse.com/thing:3534066
--Air filter Mod (HEPA+Carbon Filter) https://www.thingiverse.com/thing:3374299
+-Air filter Mod (HEPA+Carbon Filter for ABS printing) https://www.thingiverse.com/thing:3374299
 
 02/27/2023 :
 After 2 years my first E3 Pro Board gave out. It seems that the Extruder motor is skipping even without load and higher Vref. 
 Extruder driver may be failing. Time to upgrade the mother board. 
 While Waiting for an SKR mini E3 v3 i have used my SKR mini E3 v1.2.
--Will upgrade extruder Motors to BMG
+-Will upgrade extruder to BMG
 -Will add BLTouch
 -Will Upgrade to Hydra v6
 
