@@ -1,10 +1,12 @@
 # Ender 3/Pro/V2
 
 ============================================
-BUILD STATUS: Stopped at 2.5 with RPI, PEI Spring Steel Sheet Textured+Smooth, and MicroSwiss.
+BUILD STATUS: Stopped
 ============================================
-
-
+<pre></pre>
+============================================
+Status: E3 Pro with RPI, PEI Spring Steel Sheet Textured+Smooth, Microswiss, BMG, SKR Mini E3 v3
+============================================
 <pre>
 This is a documentation of my Ender 3/Pro Documentary of my printer build. 
 This setup is repeatable. Good for print farms. I have this on 3 of my E3 (2xE3Pros, 1xRegularE3)
@@ -47,7 +49,7 @@ V1.5: Aesthethics and Organiztion
 
 V2.0: Performance Upgrades with printed Parts
 -Printed Direct Drive with stock parts: https://www.thingiverse.com/thing:3443609 or straight to 
-Hydra V5 for Bowden and 1x 4010 24V Part cooling fan set up : https://www.thingiverse.com/thing:4062242
+Hydra V6 (so you can use v6 style hotend later if wanted) for Bowden and 1x 4010 24V Part cooling fan set up : https://www.thingiverse.com/thing:4253359/
 -Stepper Cable Support : https://www.thingiverse.com/thing:4279827
 
 ========================================================================================
@@ -69,12 +71,12 @@ Final v2.0 BOM:
 -30mm Socket adapter
 -6/7 socket wrench
 -Brass Brush
-*Add v5 hydra if you went that route
+*Add v5/6 hydra if you went that route
 
 ========================================================================================
 Good place to STOP, this is where the additional expense comes in.
 ========================================================================================
-*V5 Hydra Parts:
+*V5 Hydra Parts: https://www.thingiverse.com/thing:4062242
 - M3 x 12 mm Pan Head hex bolts 4x
 - M3 X 8mm Pan Head hex bolts 3x
 - M3 X 16mm Pan Head hex bolts 6x
@@ -82,7 +84,7 @@ Good place to STOP, this is where the additional expense comes in.
 - M3 X Nylok Nuts 12x
 - M3 X Plain Nuts 3x
 
-*V6 Hydra Additional Parts:
+*V6 Hydra Additional Parts: https://www.thingiverse.com/thing:4253359/
 - M3 x 20mm Hex Bolts and M3 Nylocs 2x : for Heat Sink 
 - M3 x 12mm Hex bolts and Nylocs 2x : for V6 Clamp to the Duct Base.
 - M3 x 10 mm long Nylocs 2x : for BL Touch
@@ -95,7 +97,6 @@ Version 2.5: Performance Parts, Better cooling
 -PSU Fan Cover: https://www.thingiverse.com/thing:4460994
 -5015 24v Sunon/GDSTime Fan Upgrade 2x: Part Cooling
 -4010 24v Sunon/GDSTime Fan Upgrade 1x: Hot End
--Hydra Hotend Version6 Setup : https://www.thingiverse.com/thing:4253359/
 
 
 ========================================================================================
@@ -122,7 +123,6 @@ Extruder driver may be failing. Time to upgrade the mother board.
 While Waiting for an SKR mini E3 v3 i have used my SKR mini E3 v1.2.
 -Will upgrade extruder to BMG
 -Will add BLTouch
--Will Upgrade to Hydra v6
 
 Version 4.0:
 -SwitchWire Conversion https://github.com/boubounokefalos/Ender_SW
