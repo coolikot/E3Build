@@ -1,12 +1,10 @@
 # Ender 3/Pro/V2
 
 ============================================
-BUILD STATUS: Stopped
-============================================
+BUILD STATUS: Ended
 <pre></pre>
 ============================================
 Status: E3 Pro with RPI, PEI Spring Steel Sheet Textured+Smooth, Microswiss, BMG, SKR Mini E3 v3
-============================================
 <pre>
 This is a documentation of my Ender 3/Pro Documentary of my printer build. 
 This setup is repeatable. Good for print farms. I have this on 3 of my E3 (2xE3Pros, 1xRegularE3)
