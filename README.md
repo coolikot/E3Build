@@ -71,12 +71,12 @@ Final v2.0 BOM:
 -30mm Socket adapter
 -6/7 socket wrench
 -Brass Brush
-*Add v5/6 hydra if you went that route
+*Add MK8/V6 hydra if you went that route
 
 ========================================================================================
 Good place to STOP, this is where the additional expense comes in.
 ========================================================================================
-*V5 Hydra Parts: https://www.thingiverse.com/thing:4062242
+*MK8 Hydra Parts: https://www.thingiverse.com/thing:4062242
 - M3 x 12 mm Pan Head hex bolts 4x
 - M3 X 8mm Pan Head hex bolts 3x
 - M3 X 16mm Pan Head hex bolts 6x
