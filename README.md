@@ -5,11 +5,11 @@ BUILD STATUS: Ended
 ============================================
 <pre></pre>
 ============================================
-Status: E3 Pro with RPI, PEI Spring Steel Sheet Textured+Smooth, Microswiss, BMG, SKR Mini E3 v3
+Status: E3 Pro with RPI, PEI Spring Steel Sheet Textured+Smooth, MK8+Capricorn PTFE Lining, BMG, SKR Mini E3 v3
 ============================================
 <pre>
-This is a documentation of my Ender 3/Pro Documentary of my printer build. 
-This setup is repeatable. Good for print farms. I have this on 3 of my E3 (2xE3Pros, 1xRegularE3)
+This is a documentation of my Ender 3/Pro/V2 Documentary of my printer build. 
+This setup is repeatable. Good for print farms. I have this on my farm of E3 (2xE3, 4xE3Pro, 3xE3v2)
 
 Tools To be used:
 -Tire Gauge for Alignment
@@ -20,20 +20,19 @@ Tools To be used:
 
 V1: Base Ender 3/Pro (Out of the Box Upgrades)
 -Capricorn PTFE Tube
--X axis Tensioner
--Y Axis Tensioner
--Yellow Stiffer Bed Springs
--Metal Extruder
+-X axis Aluminum Tensioner
+-Y Axis Aluminum Tensioner
+-Yellow Stiffer Bed Springs or Silicone Bed Spacer
+-Metal Extruder or BMG (BMG Clone is fine)
 -X Gantry Alignment Tool (or use 2 objects of same type if you cannot print yet) : https://www.thingiverse.com/thing:4376394
 -Tire Gauge E3 Calibration Kit : https://www.thingiverse.com/thing:4582774
 -White/Black Pentel for (Dark/Light filaments) for eStep tuning and flow rate tuning
 
 V1.1: Printable part Must haves during Build process (The earlier you get this the Better)
 -Vslot Covers Snap on for Extrusion rails : https://www.thingiverse.com/thing:4866310
--Double V Slot Corner Bracket : https://www.thingiverse.com/thing:2763033
--Z Stepper Support : https://www.thingiverse.com/thing:4699747
+-Z Stepper Support : https://www.thingiverse.com/thing:4735716
 -Cable Protector: https://www.thingiverse.com/thing:3322027
--LCD Full case cover : https://www.thingiverse.com/thing:3014209/makes
+-LCD Full case cover : https://www.thingiverse.com/thing:3367442
 -LCD ribbon cable guide clip : https://www.thingiverse.com/thing:2960375
 -PSU Support: https://www.thingiverse.com/thing:3927972
 -Better Spool Holder : https://www.thingiverse.com/thing:3020026
@@ -45,11 +44,13 @@ V1.5: Aesthethics and Organiztion
 -Handle Bar https://www.thingiverse.com/thing:1290106
 -Cable Chains (Unnecesary but makes your printer looks clean) : https://www.thingiverse.com/thing:4316238
 -LED Bar(soldering/wiring required) https://www.thingiverse.com/thing:3292889
--Nozzle Wiper : https://www.thingiverse.com/thing:4747447
+-Nozzle Wiper : https://www.thingiverse.com/thing:4554414
 
 V2.0: Performance Upgrades with printed Parts
--Printed Direct Drive with stock parts: https://www.thingiverse.com/thing:3443609 or straight to 
-Hydra V6 (so you can use v6 style hotend later if wanted) for Bowden and 1x 4010 24V Part cooling fan set up : https://www.thingiverse.com/thing:4253359/
+-Printed Direct Drive for stock parts: https://www.thingiverse.com/thing:3443609 or straight to 
+-Hydra 
+MK8 Hotend : https://www.thingiverse.com/thing:4062242
+V6 Hotend for Bowden and 1x 4010 24V Part cooling fan set up : https://www.thingiverse.com/thing:4253359/
 -Stepper Cable Support : https://www.thingiverse.com/thing:4279827
 
 ========================================================================================
@@ -95,8 +96,9 @@ Version 2.5: Performance Parts, Better cooling
 -E3 Pro rear PSU Mod (Better right part): https://www.thingiverse.com/thing:4461049
 -E3 (Non Pro) rear PSU Mod: https://www.thingiverse.com/thing:5303395
 -PSU Fan Cover: https://www.thingiverse.com/thing:4460994
--5015 24v Sunon/GDSTime Fan Upgrade 2x: Part Cooling
--4010 24v Sunon/GDSTime Fan Upgrade 1x: Hot End
+-5015 24v Sunon/GDSTime/WinSinn* Fan Upgrade 2x: Part Cooling
+-4010 24v Sunon/GDSTime/WinSinn* Fan Upgrade 1x: Hot End
+*Sunon is over kill for E3, WinSinn is good enough if you're in a tight budget, GDSTime is a good in between
 
 
 ========================================================================================
@@ -116,6 +118,8 @@ Version 3.0: More parts more money
 -Linear rails: Upgrade Guide https://www.youtube.com/watch?v=I3xMHjiYENk&
 -Ikea Lack Enclosure Mod: https://www.thingiverse.com/thing:3534066
 -Air filter Mod (HEPA+Carbon Filter for ABS printing) https://www.thingiverse.com/thing:3374299
+-Filament RunOut Sensor : https://www.printables.com/model/389504-ercf-smart-filament-motion-sensor
+
 
 02/27/2023 :
 After 2 years my first E3 Pro Board gave out. It seems that the Extruder motor is skipping even without load and higher Vref. 
